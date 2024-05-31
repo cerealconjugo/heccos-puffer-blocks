@@ -1,0 +1,8 @@
+{
+  "block.pufferblocks.puffer_block": "Bloque de pez globo",
+  "sounds.pufferblocks.puffer_block_place": "Bloque colocado",
+  "sounds.pufferblocks.puffer_block_hit": "Bloque rompéndose",
+  "sounds.pufferblocks.puffer_block_break": "Bloque roto",
+  "sounds.pufferblocks.puffer_block_walk": "Pasos",
+  "sounds.pufferblocks.puffer_block_burp": "Bloque de pez globo eructando"
+}
